@@ -1,2 +1,2 @@
-# Ecommerce-salse-anlysis
-here i anlysis e commerce salse anlysis
+# Ecommerce-sales-anlysis
+here i anlysis e commerce sales anlysis
